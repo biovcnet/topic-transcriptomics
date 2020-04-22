@@ -10,8 +10,8 @@ A repository for the lessons and tutorials for the Transcriptomics TOPIC channel
 This BVCN topic will cover:
 
 * An overview of transcriptomics and metatranscriptomics
-* Lessons covering various tool applications, including:
-    * _in silico_ ribodepletion
+* Lessons covering various applications, including:
+    * Wetlab and _in silico_ rRNA depletion
     * Recovery/removal of rRNA from metatranscriptomic data
 
 # Lesson 1

@@ -16,7 +16,7 @@ This BVCN topic will cover:
 
 # Lesson 1
 ### Title: Introduction to Transcriptomics
-_Instructors: Arkadiy Garber & Ella Sieradzki_
+_Instructors: Arkadiy Garber_
 
 * What is a transcriptome?
 * Case studies using transcriptomics: 

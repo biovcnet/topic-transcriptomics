@@ -20,11 +20,29 @@ _Instructors: Arkadiy Garber_
 
 * What is a transcriptome?
 * Case studies using transcriptomics: 
-  * Deifferential gene expression 
+  * Differential gene expression 
   * Gene expression by community (metatranscriptomics)
   * Combining metatranscriptomics and metagenomics 
 * General transcriptomic pipeline overview
 * Transcript assemblers and read aligners
 
 [Watch the lesson](https://www.youtube.com/watch?v=P6mB9CEVVR8&feature=youtu.be)
+
+
+# Lesson 2
+### Title: rRNA depletion (wet lab and in silico)
+_Instructors: Arkadiy Garber_
+
+* Why remove rRNA from you RNA samples?
+* Various wet-lab rRNA depletion methods: 
+  * NEBNext rRNA depletion using RNase H 
+  * NEBNext mRNA enrichment using magnetic beads
+  * DIY method using probes and streptavidin-coated magnetic beads
+  * DASH: using Cas9 to remove unwatned high-abundance sequences
+* Brief SortMeRNA intro
+
+[Watch the lesson]()
+[Follow the tutorial](https://github.com/Arkadiy-Garber/bcvn-binder-sortmerna)
+
+
 

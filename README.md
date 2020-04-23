@@ -42,6 +42,7 @@ _Instructors: Arkadiy Garber_
 * Brief SortMeRNA intro
 
 [Watch the lesson]()
+
 [Follow the tutorial](https://github.com/Arkadiy-Garber/bcvn-binder-sortmerna)
 
 

@@ -39,7 +39,7 @@ _Instructors: Arkadiy Garber_
   * NEBNext mRNA enrichment using magnetic beads
   * DIY method using probes and streptavidin-coated magnetic beads
   * DASH: using Cas9 to remove unwatned high-abundance sequences
-* Brief SortMeRNA intro
+* Brief SortMeRNA intro followed by tutorial
 
 [Watch the lesson]()
 

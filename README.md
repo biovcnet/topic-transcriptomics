@@ -41,9 +41,10 @@ _Instructors: Arkadiy Garber_
   * DASH: using Cas9 to remove unwatned high-abundance sequences
 * Brief SortMeRNA intro
 
-[Watch the lesson]()
+[Watch the lesson](https://www.youtube.com/watch?v=ZsXssq8b6o4&feature=youtu.be)
 
-[Follow the tutorial](https://github.com/Arkadiy-Garber/bcvn-binder-sortmerna)
+[Watch the tutorial](https://www.youtube.com/watch?v=GreyzZ5J0xo&feature=youtu.be)
+[Follow along with the tutorial](https://github.com/Arkadiy-Garber/bcvn-binder-sortmerna)
 
 
 

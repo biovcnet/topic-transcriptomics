@@ -44,6 +44,7 @@ _Instructors: Arkadiy Garber_
 [Watch the lesson](https://www.youtube.com/watch?v=ZsXssq8b6o4&feature=youtu.be)
 
 [Watch the tutorial](https://www.youtube.com/watch?v=GreyzZ5J0xo&feature=youtu.be)
+
 [Follow along with the tutorial](https://github.com/Arkadiy-Garber/bcvn-binder-sortmerna)
 
 

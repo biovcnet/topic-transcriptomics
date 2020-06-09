@@ -49,4 +49,19 @@ _Instructors: Arkadiy Garber_
 [Follow along with the tutorial](https://github.com/Arkadiy-Garber/bcvn-binder-sortmerna)
 
 
+# Lesson 3
+### Title: Read counting with htseq-count
+_Instructors: Arkadiy Garber_
 
+* Generating count tables: where this is in the RNA seq pipeline
+* The HTSeq framework
+* htseq-count
+* read mapping paramaters
+* count table output
+* comparison to other read counting tools
+
+[Watch the lesson](link)
+
+[Watch the tutorial](link)
+
+[Follow along with the tutorial](https://github.com/biovcnet/bvcn-binder-htseq)

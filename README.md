@@ -60,8 +60,8 @@ _Instructors: Arkadiy Garber_
 * count table output
 * comparison to other read counting tools
 
-[Watch the lesson](link)
+[Watch the lesson](https://youtu.be/7A5IgfZd0rM)
 
-[Watch the tutorial](link)
+[Watch the tutorial](https://youtu.be/3n0ncYz5TlM)
 
 [Follow along with the tutorial](https://github.com/biovcnet/bvcn-binder-htseq)

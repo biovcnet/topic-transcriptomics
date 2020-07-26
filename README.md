@@ -65,3 +65,15 @@ _Instructors: Arkadiy Garber_
 [Watch the tutorial](https://youtu.be/3n0ncYz5TlM)
 
 [Follow along with the tutorial](https://github.com/biovcnet/bvcn-binder-htseq)
+
+# Lesson 4
+### Title: RNA assembly with Trinity
+_Instructors: Alexis Marshall_
+
+* Read QC and assessment prior to assembly
+* rRNA depletion 
+* Trinity
+
+[Watch the tutorial]()
+
+[Follow along with the tutorial](https://github.com/alexismarshall/bvcn-binder-trinity)

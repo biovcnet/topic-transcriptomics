@@ -74,6 +74,6 @@ _Instructors: Alexis Marshall_
 * rRNA depletion 
 * Trinity
 
-[Watch the tutorial]()
+[Watch the tutorial](https://youtu.be/midCCiARfBA)
 
-[Follow along with the tutorial](https://github.com/alexismarshall/bvcn-binder-trinity)
+[Follow along with the tutorial](https://github.com/biovcnet/topic-transcriptomics)

@@ -76,4 +76,4 @@ _Instructors: Alexis Marshall_
 
 [Watch the tutorial](https://youtu.be/midCCiARfBA)
 
-[Follow along with the tutorial](https://github.com/biovcnet/topic-transcriptomics)
+[Follow along with the tutorial](https://github.com/biovcnet/bvcn-binder-trinity)

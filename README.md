@@ -76,4 +76,4 @@ _Instructors: Alexis Marshall_
 
 [Watch the tutorial]()
 
-[Follow along with the tutorial](https://github.com/alexismarshall/bvcn-binder-trinity)
+[Follow along with the tutorial](https://github.com/biovcnet/bvcn-binder-trinity)
